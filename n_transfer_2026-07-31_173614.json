@@ -65,7 +65,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "w.upgrade101.club",
+            "address": "benz.ink",
             "port": 443,
             "users": [
               {
@@ -80,14 +80,14 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/ws-f28c040ba3857b276cc22135",
+          "path": "/api/v2/vms/partner/sakura",
           "headers": {
-            "Host": "w.upgrade101.club"
+            "Host": "benz.ink"
           }
         },
         "security": "tls",
         "tlsSettings": {
-          "serverName": "w.upgrade101.club",
+          "serverName": "benz.ink",
           "allowInsecure": false,
           "show": false,
           "fingerprint": "firefox",
@@ -106,5 +106,5 @@
       "protocol": "blackhole"
     }
   ],
-  "remarks": "🇪🇺 LTE #2 | Все операторы 🔥"
+  "remarks": "🇪🇺 LTE #1 | Все операторы 🔥"
 }
